@@ -159,17 +159,6 @@ p {
 }
 @media  (max-width: 1028px) {
 
-#title-image {
-transform: rotate(0);
-  }
-
-}
-
-@media (max-width: 767px){
-  #title{
-    text-align: center;
-  }
-
   #title-image {
     padding-top:  5%;
     padding-bottom: 5%;
@@ -177,4 +166,10 @@ transform: rotate(0);
     width: auto;
   transform: rotate(0);
 
+  }
+  #title{
+    text-align: center;
+  }
+
 }
+
