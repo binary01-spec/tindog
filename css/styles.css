@@ -162,9 +162,7 @@ p {
 #title-image {
 transform: rotate(0);
   }
-  #title{
-  margin-right: 2%;
-  }
+
 }
 
 @media (max-width: 767px){
